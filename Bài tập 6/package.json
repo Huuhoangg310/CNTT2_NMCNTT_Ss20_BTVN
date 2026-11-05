@@ -1,0 +1,9 @@
+{
+  "name": "ecommerce-project",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Secure sample repository for an ecommerce project",
+  "scripts": {
+    "test": "node --test"
+  }
+}
